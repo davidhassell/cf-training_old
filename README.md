@@ -1,6 +1,6 @@
-# cf-training
+# Contents
 
-IPython notebooks for the NCAS training workshops on cf-python
+The IPython notebooks during the NCAS training workshops on cf-python
 (https://ncas-cms.github.io/cf-python) and cf-plot
 (http://ajheaps.github.io/cf-plot)
 
